@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure Viewer</string>
+    <string name="login_title">Secure Viewer</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="login_credentials_hint">Demo credentials: viewer / 1234</string>
+    <string name="device_list_title">Available Devices</string>
+    <string name="connect_button">CONNECT</string>
+    <string name="disconnect_button">DISCONNECT</string>
+    <string name="connected_status">Connected - Streaming...</string>
+    <string name="disconnected_status">Disconnected</string>
+    <string name="no_devices">No devices online</string>
+    <string name="login_success">Login successful</string>
+    <string name="login_failed">Invalid credentials</string>
+    <string name="connection_success">Connected to device</string>
+    <string name="connection_error">Error loading devices</string>
+</resources>
